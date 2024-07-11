@@ -1,7 +1,7 @@
 {
   "name": "react-native-swipe-gesture-control",
   "types": "index.d.ts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is the fork of the original repository. The changes include control to enable or disable swipes in a specific direction.",
   "main": "index.js",
   "scripts": {
