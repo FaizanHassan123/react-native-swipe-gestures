@@ -2,9 +2,21 @@
 
 React Native component for handling swipe gestures in up, down, left and right direction.
 
+# Your Forked Package
+
+This is a fork of [react-native-swipe-gestures](https://github.com/glepur/react-native-swipe-gestures.git).
+
+## Acknowledgment
+
+This project is based on the work of [glepur](https://github.com/glepur).
+
+## Changes Made
+
+- Feature, ability to toggle the swipe gesture detection in a particular detection.
+
 ## Installation
 
-`npm i -S react-native-swipe-gestures`
+`npm i react-native-swipe-gestures`
 
 ## Usage
 
@@ -100,6 +112,10 @@ Can be passed within optional `config` property.
 | velocityThreshold          | Number        | 0.3     | Velocity that has to be breached in order for swipe to be triggered (`vx` and `vy` properties of `gestureState`) |
 | directionalOffsetThreshold | Number        | 80      | Absolute offset that shouldn't be breached for swipe to be triggered (`dy` for horizontal swipe, `dx` for vertical swipe) |
 | gestureIsClickThreshold    | Number        | 5       | Absolute distance that should be breached for the gesture to not be considered a click (`dx` or `dy` properties of `gestureState`) |
+| detectSwipeUp              | boolean       | true    | Enables detection of swipe up gestures. |
+| detectSwipeDown            | boolean       | true    | Enables detection of swipe down gestures. |
+| detectSwipeLeft            | boolean       | true    | Enables detection of swipe left gestures. |
+| detectSwipeRight           | boolean       | true    | Enables detection of swipe right gestures. |
 
 ## Methods
 
