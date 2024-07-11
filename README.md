@@ -1,4 +1,4 @@
-# react-native-swipe-gestures
+# react-native-swipe-gesture-control
 
 React Native component for handling swipe gestures in up, down, left and right direction.
 
