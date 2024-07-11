@@ -1,15 +1,15 @@
 {
-  "name": "react-native-swipe-gestures",
+  "name": "react-native-swipe-gesture-control",
   "types": "index.d.ts",
-  "version": "1.0.5",
-  "description": "4-directional swipe gestures for react-native",
+  "version": "1.0.0",
+  "description": "This is the fork of the original repository. The changes include control to enable or disable swipes in a specific direction.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:glepur/react-native-swipe-gestures.git"
+    "url": "git@github.com:FaizanHassan123/react-native-swipe-gestures.git"
   },
   "keywords": [
     "react-native",
@@ -17,8 +17,15 @@
     "gesture"
   ],
   "bugs": {
-    "url": "https://github.com/glepur/react-native-swipe-gestures/issues"
+    "url": "https://github.com/FaizanHassan123/react-native-swipe-gestures/issues"
   },
-  "author": "Goran Lepur <goran.lepur1@gmail.com>",
+  "author": "Faizan Hassan <faizanhassan.se@gmail.com>",
+  "contributors": [
+    {
+      "name": "Goran Lepur",
+      "email": "goran.lepur1@gmail.com"
+    }
+  ],
+  "maintainers": [],
   "license": "MIT"
 }
