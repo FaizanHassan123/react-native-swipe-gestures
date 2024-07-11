@@ -16,7 +16,7 @@ This project is based on the work of [glepur](https://github.com/glepur).
 
 ## Installation
 
-`npm i react-native-swipe-gestures`
+`npm i react-native-swipe-gesture-control`
 
 ## Usage
 
