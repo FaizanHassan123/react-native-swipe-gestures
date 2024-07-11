@@ -18,6 +18,8 @@ This project is based on the work of [glepur](https://github.com/glepur).
 
 `npm i react-native-swipe-gesture-control`
 
+`yarn add react-native-swipe-gesture-control`
+
 ## Usage
 
 ```javascript
